@@ -18,7 +18,7 @@ export const Footer: React.FC = () => {
 
         {/* Tagline */}
         <p className="text-slate-400 text-sm max-w-md mx-auto">
-          Shaashaddu way madoobaanaysaa. Khibradduna way sii soconaysaa.
+          Shaashaddu way madoobaanaysaa. Dhagaysiguna wuu sii soconayaa.
         </p>
 
         {/* Developer attribution (subtle and beautiful as requested) */}

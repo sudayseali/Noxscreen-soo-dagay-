@@ -1,0 +1,7 @@
+{
+  "name": "NoXScreen — Shaashaddu Way Madoobaanaysaa",
+  "description": "Website-ka rasmiga ah ee hordhaca iyo countdown-ka app-ka NoXScreen. Waxaa soo saaray c/kariim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

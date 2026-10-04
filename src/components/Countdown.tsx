@@ -119,7 +119,7 @@ export const Countdown: React.FC<CountdownProps> = ({ time, isCompact = false })
           NoXScreen wuxuu kuu imaanayaa wax ka yar 6 maalmood gudahood.
         </p>
         <p className="text-xs sm:text-sm text-slate-400 italic">
-          Sugitaankaagu wuxuu leeyahay sabab.
+          Waa wax u qalma sugitaanka.
         </p>
       </div>
     </div>

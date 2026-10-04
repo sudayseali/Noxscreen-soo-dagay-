@@ -106,7 +106,7 @@ export const FinalCountdown: React.FC<FinalCountdownProps> = ({ time }) => {
             </div>
 
             <p className="text-xs sm:text-sm text-slate-400 italic">
-              Sugitaankaagu wuxuu leeyahay sabab.
+              Waa wax u qalma sugitaanka.
             </p>
           </div>
         )}

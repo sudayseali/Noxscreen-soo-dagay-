@@ -16,9 +16,9 @@ interface FeatureItem {
 const features: FeatureItem[] = [
   {
     icon: BatteryCharging,
-    title: "BADBAADINTA BAYTARIGA",
+    title: "KAYDSIGA BAYTARIGA",
     description:
-      "Shaashad madow waxay si gaar ah faa'iido ugu yeelan kartaa taleefannada leh AMOLED/OLED, halka pixels-ka madow ay isticmaali karaan tamar yar.",
+      "Shaashadda madow waxay si weyn u yaraysaa isticmaalka baytariga, gaar ahaan taleefannada AMOLED/OLED maadaama dhibcaha madow ee shaashaddu aysan wax tamar ah cunayn.",
     accent: "text-emerald-400 group-hover:text-emerald-300",
   },
   {

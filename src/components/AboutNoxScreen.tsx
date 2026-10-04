@@ -21,7 +21,7 @@ export const AboutNoxScreen: React.FC = () => {
           </h2>
 
           <p className="text-lg sm:text-xl text-slate-200 leading-relaxed font-normal">
-            NoXScreen waa app loogu talagalay inuu kuu oggolaado inaad shaashadda damiso ama madoobayso iyadoo khibradda aad isticmaalayso ay sii socoto.
+            NoXScreen waa app kuu oggolaanaya inaad shaashadda madoobayso iyadoo codka aad dhagaysanayso ama shaqadaadu ay si toos ah u sii soconayaan.
           </p>
 
           <p className="text-slate-400 text-sm sm:text-base leading-relaxed max-w-2xl mx-auto">

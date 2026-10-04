@@ -32,7 +32,7 @@ const features: FeatureItem[] = [
     icon: Smartphone,
     title: "JEEBKAAGA KU QAADO",
     description:
-      "Marka taleefanka jeebka lagu jiro, shaashaddu uma baahna inay mar kasta ifto.",
+      "Jeebka marka uu kugu jiro, ka dhagayso muuqaal kasta YouTube, Facebook, Gallery iyo meel kasta adoon ka baqayn inuu muuqaalku kaa beddelmo. Marka taleefanka jeebka lagu jiro, shaashaddu uma baahna inay mar kasta ifto.",
     accent: "text-blue-400 group-hover:text-blue-300",
   },
   {
